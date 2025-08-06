@@ -1,12 +1,55 @@
-# React + Vite
+# 🍹 Mojito Website Clone – Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing and fully responsive frontend clone of the **Mojito Cocktails** website, built using **React**, **Framer Motion**, **React Router**, and **Tailwind CSS**. This project is a modern, animated landing page designed to showcase smooth transitions and user-centric design.
 
-Currently, two official plugins are available:
+🚀 **Live Demo**: [Click here to view](https://gsap-cocktails-o1qb.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧑‍💻 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ **React**
+- 🎞 **Framer Motion**
+- 🔀 **React Router**
+- 🌬️ **Tailwind CSS**
+- 📱 **Fully Responsive Design**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Folder Structure
+
+mojito-landing/ │ ├── public/ │   └── index.html ├── src/ │   ├── assets/ │   ├── components/ │   ├── pages/ │   ├── App.jsx │   ├── index.js │   └── routes/ └── package.json
+
+## ⚙️ Installation & Running Locally
+
+git clone https://github.com/aadithyaa9/gsap_cocktails
+
+cd mojito-landing
+
+npm install
+
+npm run dev
+
+🌟 Features
+
+🔥 Fully responsive UI
+
+🎬 Page transitions using Framer Motion
+
+🚦 Client-side routing with React Router
+
+🎨 Clean and modern design with Tailwind CSS
+
+✨ Smooth scroll and hover effects
+
+
+🛠️ Improvements for Future
+
+Convert into a full-stack application
+
+Add a cocktail search feature using TheCocktailDB API
+
+Add theme toggle
+
+Optimize animations for performance
+
+
+📄 License
+
+This project is for educational and demonstration purposes only.
